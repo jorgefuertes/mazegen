@@ -1,0 +1,2 @@
+# mazegen
+LUA Maze Generator
